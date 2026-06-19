@@ -19,5 +19,5 @@ Kentucky's healthy transfer additions were the most efficient offensive group on
 - Jupyter Notebook
 
 ## Files
-- `kentucky_capstone.ipynb` — full analysis notebook
-- `Kentucky_Analytics_2025-26.pdf` — formatted report
+- `Kentucky Project.ipynb` — full analysis notebook
+- `Kentucky Analytics Project.pdf` — formatted report
